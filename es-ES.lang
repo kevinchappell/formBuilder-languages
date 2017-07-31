@@ -87,6 +87,7 @@ text = Campo de Texto
 textArea = Área de texto
 toggle = Tipo conmutador
 warning = ¡Advertencia!
+value = Valor
 viewXML = </>
 viewJSON = { }
 yes = Si
