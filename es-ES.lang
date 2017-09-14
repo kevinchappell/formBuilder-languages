@@ -22,6 +22,7 @@ devMode = Modo Desarrollador
 editNames = Editar Nombres
 editorTitle = Elementos del form
 editXML = Editar XML
+enableOther = Permitir otros
 fieldDeleteWarning: falso
 fieldVars = Variables del campo
 fieldNonEditable = Este campo no se puede editar.
@@ -32,6 +33,8 @@ getStarted = Arrastra un campo de la derecha a esta área
 header = Título
 hide = Editar
 hidden = Campo oculto
+inline= Lineal
+inlineDesc = Mostrar lineal
 label = Etiqueta
 labelEmpty = Esta etiqueta no puede estar vacia
 limitRole = Limitar el acceso a una o más de las siguientes funciones:
