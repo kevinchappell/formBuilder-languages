@@ -1,4 +1,5 @@
 addOption = 新增选项
+number = 数字
 allFieldsRemoved = 所有字段已删除
 allowSelect = 允许选择
 autocomplete = 自动完成
