@@ -1,3 +1,6 @@
+NATIVE_NAME = Nederlands
+ENGLISH_NAME = Dutch
+
 addOption = Optie toevoegen
 allFieldsRemoved = Alle velden zijn verwijderd.
 allowSelect = Selectie toestaan

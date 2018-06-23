@@ -1,3 +1,6 @@
+NATIVE_NAME = norsk
+ENGLISH_NAME = Norwegian
+
 addOption = Legg til alternativ
 allFieldsRemoved = Alle felt er fjernet
 allowSelect = Tillat seleksjon

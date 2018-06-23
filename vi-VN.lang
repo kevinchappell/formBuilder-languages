@@ -1,3 +1,6 @@
+NATIVE_NAME = tiếng Việt
+ENGLISH_NAME = Vietnamese
+
 addOption = Thêm tùy chọn
 allFieldsRemoved = Tất cả các trường đã bị gỡ bỏ.
 allowSelect = Cho phép chọn

@@ -1,3 +1,6 @@
+NATIVE_NAME = magyar
+ENGLISH_NAME = Hungarian
+
 addOption = Opció hozzáadása +
 allFieldsRemoved = All fields were removed.
 allowMultipleFiles = Lehetővé teszi a felhasználónak egyszerre több file feltöltésétAllow users to upload multiple files

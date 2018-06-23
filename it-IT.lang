@@ -1,3 +1,6 @@
+NATIVE_NAME = italiano
+ENGLISH_NAME = Italian
+
 addOption = Aggiungi opzione +
 allFieldsRemoved = Tutti i campi rimossi.
 allowMultipleFiles = Permetti agli utenti di caricare più file

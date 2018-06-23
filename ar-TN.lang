@@ -1,3 +1,6 @@
+NATIVE_NAME = تونسي
+ENGLISH_NAME = Arabic (Tunisian)
+
 addOption = إضافة خيار
 allFieldsRemoved = تمّت إزالة جميع المجالات..
 allowSelect = السماح بالإختيار

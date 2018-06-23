@@ -1,3 +1,6 @@
+NATIVE_NAME = român
+ENGLISH_NAME = Romanian
+
 addOption = Adaugă opțiune
 allFieldsRemoved = Toate câmpurile au fost șterse.
 allowSelect = Permite selecția

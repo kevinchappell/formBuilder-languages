@@ -1,3 +1,6 @@
+NATIVE_NAME = français
+ENGLISH_NAME = French
+
 addOption = Ajouter une Option +
 allFieldsRemoved = Tous les champs ont été supprimés.
 allowMultipleFiles = Autoriser les utilisateurs à uploader plusieurs fichiers

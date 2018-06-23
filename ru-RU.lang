@@ -1,3 +1,6 @@
+NATIVE_NAME = русский язык
+ENGLISH_NAME = Russian
+
 addOption = Добавить опцию
 allFieldsRemoved = Все поля удалены
 allowMultipleFiles = Разрешить загружать несколько файлов
@@ -61,7 +64,7 @@ paragraph = Абзац
 placeholder = Свободное место
 placeholders.value = Значение
 placeholders.label = Надпись
-placeholders.text = 
+placeholders.text =
 placeholders.textarea =
 placeholders.email = Введите e-mail адрес
 placeholders.placeholder =

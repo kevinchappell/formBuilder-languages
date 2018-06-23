@@ -1,3 +1,6 @@
+NATIVE_NAME = 台語
+ENGLISH_NAME = Chinese (Taiwan)
+
 addOption = 新增選項
 allFieldsRemoved = 所有欄位已移除
 allowSelect = 允許選擇
