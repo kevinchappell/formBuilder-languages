@@ -1,3 +1,6 @@
+NATIVE_NAME = português
+ENGLISH_NAME = Portuguese (BR)
+
 addOption = Adicionar Opção
 allFieldsRemoved = Todos os campos foram removidos.
 allowSelect = Permitir Seleção

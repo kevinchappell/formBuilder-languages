@@ -1,3 +1,6 @@
+NATIVE_NAME = Polska
+ENGLISH_NAME = Polish
+
 addOption = Dodaj opcję +
 allFieldsRemoved = Wszystkie pliki zostały usunięte.
 allowMultipleFiles = Pozwól użytkownikom na upload wielu plików

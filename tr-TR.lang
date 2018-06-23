@@ -1,3 +1,6 @@
+NATIVE_NAME = Türkçe
+ENGLISH_NAME = Turkish
+
 addOption = Seçenek Ekle
 allFieldsRemoved = Tüm alanlarlar kaldırıldı.
 allowMultipleFiles = Kullanıcıların çoklu dosya yüklemesine izin ver.

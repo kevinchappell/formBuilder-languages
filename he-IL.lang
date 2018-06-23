@@ -1,3 +1,6 @@
+NATIVE_NAME = עברית‬
+ENGLISH_NAME = Hebrew
+
 addOption = הוסף אפשרות בחירה +
 allFieldsRemoved = כל השדות הוסרו.
 allowMultipleFiles = אפשר לעלות מספר קבצים ביחד.

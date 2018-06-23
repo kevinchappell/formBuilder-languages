@@ -1,6 +1,9 @@
+NATIVE_NAME = ဗမာစကာ
+ENGLISH_NAME = Burmese (Zawgyi)
+
 addOption = ေရြးစရာထည္႔ +
 allFieldsRemoved = ကြက္လပ္အားလံုးဖယ္ရွားၿပီး
-allowMultipleFiles = ဖိုင္အမ်ားအျပားတင္ရန္ သံုးသူအားခြင္႔ေပး 
+allowMultipleFiles = ဖိုင္အမ်ားအျပားတင္ရန္ သံုးသူအားခြင္႔ေပး
 autocomplete = အလိုလိုၿပီးေစ
 button = ခလုပ္
 cannotBeEmpty = ဒီအကြက္အား အလြတ္မထားရပါ

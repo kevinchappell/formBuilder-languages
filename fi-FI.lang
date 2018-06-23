@@ -1,3 +1,6 @@
+NATIVE_NAME = suomen
+ENGLISH_NAME = Finnish
+
 addOption = Lisää valinta +
 allFieldsRemoved = Kaikki kentät poistettiin.
 allowMultipleFiles = Salli käyttäjien lähettää useita tiedostoja
