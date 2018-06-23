@@ -1,3 +1,6 @@
+NATIVE_NAME = فارسى
+ENGLISH_NAME = Farsi (Iran)
+
 addOption = اضافه کردن گزینه
 allFieldsRemoved = همه فیلدها حذف شدند.
 allowMultipleFiles = اجازه‌ی انتخاب چندگانه‌ی فایل به کاربران

@@ -1,3 +1,6 @@
+NATIVE_NAME = 简化字
+ENGLISH_NAME = Chinese
+
 addOption = 新增选项
 number = 数字
 allFieldsRemoved = 所有字段已删除

@@ -1,3 +1,6 @@
+NATIVE_NAME = English (US)
+ENGLISH_NAME = English
+
 addOption = Add Option +
 allFieldsRemoved = All fields were removed.
 allowMultipleFiles = Allow users to upload multiple files

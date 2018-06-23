@@ -1,3 +1,6 @@
+NATIVE_NAME = čeština
+ENGLISH_NAME = Czech
+
 allFieldsRemoved=Všechna pole byla odstraněna.
 allowMultipleFiles=Povolit uživatelům nahrávat více souborů.
 addOption=Přidat možnost +

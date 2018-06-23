@@ -1,6 +1,9 @@
+NATIVE_NAME = ဗမာစကာ
+ENGLISH_NAME = Burmese
+
 addOption = ရွေးစရာထည့် +
 allFieldsRemoved = ကွက်လပ်အားလုံးဖယ်ရှားပြီး
-allowMultipleFiles = ဖိုင်အများအပြားတင်ရန် သုံးသူအားခွင့်ပေး 
+allowMultipleFiles = ဖိုင်အများအပြားတင်ရန် သုံးသူအားခွင့်ပေး
 autocomplete = အလိုလိုပြီးစေ
 button = ခလုပ်
 cannotBeEmpty = ဒီအကွက်အား အလွတ်မထားရပါ
