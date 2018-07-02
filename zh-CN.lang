@@ -17,6 +17,7 @@ clear = 清除所有
 close = 关闭
 content = 内容
 copy = 复制
+copyButtonTooltip=复制
 dateField = 日期字段
 description = 帮助信息
 descriptionField = 描述
