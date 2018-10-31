@@ -1,0 +1,28 @@
+{
+  "name": "formbuilder-languages",
+  "version": "0.0.3",
+  "description": "Language files for formBuilder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinchappell/formBuilder-languages.git"
+  },
+  "keywords": [
+    "formBuilder",
+    "lang",
+    "files",
+    "i18n"
+  ],
+  "author": "Kevin Chappell <kevin.b.chappell@gmail.com> (http://kevin-chappell.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinchappell/formBuilder-languages/issues"
+  },
+  "homepage": "https://github.com/kevinchappell/formBuilder-languages#readme",
+  "dependencies": {
+    "mi18n": "0.4.6"
+  }
+}
