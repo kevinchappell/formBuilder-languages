@@ -54,6 +54,7 @@ number = Number
 off = Off
 on = On
 option = Option
+optionCount = Option {count}
 options = Options
 optional = optional
 optionLabelPlaceholder = Label

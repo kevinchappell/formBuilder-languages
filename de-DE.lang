@@ -54,6 +54,7 @@ number = Zahlen-Feld
 off = Aus
 on = Ein
 option = Option
+optionCount = Option {count}
 options = Optionen
 optional = optional
 optionLabelPlaceholder = Label
