@@ -78,6 +78,7 @@ removeMessage = Remove Element
 removeOption = Remove Option
 remove = &#215;
 required = Required
+requireValidOption = Only accept a pre-defined Option
 richText = Rich Text Editor
 roles = Access
 rows = Rows
