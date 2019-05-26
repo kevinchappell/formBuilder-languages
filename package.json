@@ -1,10 +1,10 @@
 {
   "name": "formbuilder-languages",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "Language files for formBuilder",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,53 @@
   },
   "homepage": "https://github.com/kevinchappell/formBuilder-languages#readme",
   "dependencies": {
-    "mi18n": "^0.4.6"
+    "mi18n": "^0.4.8"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^7.6.1",
+    "@commitlint/config-angular": "^7.6.0",
+    "@semantic-release/changelog": "^3.0.2",
+    "@semantic-release/git": "^7.0.8",
+    "@semantic-release/npm": "^5.1.7",
+    "mocha": "^6.1.4",
+    "semantic-release": "^15.13.12",
+    "travis-deploy-once": "^5.0.11"
+  },
+  "release": {
+    "branch": "master",
+    "verifyConditions": [
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      "@semantic-release/git"
+    ],
+    "prepare": [
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      "@semantic-release/git"
+    ]
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-angular"
+    ],
+    "rules": {
+      "type-enum": [
+        2,
+        "always",
+        [
+          "build",
+          "chore",
+          "ci",
+          "docs",
+          "feat",
+          "fix",
+          "perf",
+          "refactor",
+          "revert",
+          "style",
+          "test"
+        ]
+      ]
+    }
   }
 }
