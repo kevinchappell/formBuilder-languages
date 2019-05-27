@@ -7,7 +7,7 @@
     "lint": "eslint index.js",
     "semantic-release": "semantic-release",
     "test": "mocha",
-    "travis-deploy-once": "travis-deploy-once"
+    "travis-deploy-once": "travis-deploy-once --pro"
   },
   "repository": {
     "type": "git",
