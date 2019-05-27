@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint index.js",
-    "test": "mocha"
+    "semantic-release": "semantic-release",
+    "test": "mocha",
+    "travis-deploy-once": "travis-deploy-once"
   },
   "repository": {
     "type": "git",
