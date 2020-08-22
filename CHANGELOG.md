@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/kevinchappell/formBuilder-languages/compare/v1.0.0...v1.0.1) (2020-08-22)
+
+
+### Bug Fixes
+
+* pt-BR changes ([#66](https://github.com/kevinchappell/formBuilder-languages/issues/66)) ([e2bc6ef](https://github.com/kevinchappell/formBuilder-languages/commit/e2bc6ef))
+
 # 1.0.0 (2019-05-27)
 
 
