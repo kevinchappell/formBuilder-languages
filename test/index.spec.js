@@ -1,14 +1,13 @@
 const assert = require('assert')
 const langFiles = require('../index')
 
-const languageCount = 29
+const languageCount = 30
 
-
-describe('langFiles', function () {
-  it(`should contain ${languageCount} languages`, function () {
+describe('langFiles', function() {
+  it(`should contain ${languageCount} languages`, function() {
     assert.equal(Object.keys(langFiles).length, languageCount)
   })
-  it('should contain specific languages', function () {
+  it('should contain specific languages', function() {
     const expected = [
       'ar-SA',
       'ar-TN',
@@ -38,7 +37,7 @@ describe('langFiles', function () {
       'uk-UA',
       'vi-VN',
       'zh-CN',
-      'zh-TW'
+      'zh-TW',
     ]
 
     expected.forEach(lang => {
