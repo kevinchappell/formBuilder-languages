@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/kevinchappell/formBuilder-languages/compare/v1.0.1...v1.0.2) (2020-08-31)
+
+
+### Bug Fixes
+
+* some character lexical bug in fa-IR ([6ade5bf](https://github.com/kevinchappell/formBuilder-languages/commit/6ade5bf)), closes [#69](https://github.com/kevinchappell/formBuilder-languages/issues/69)
+
 ## [1.0.1](https://github.com/kevinchappell/formBuilder-languages/compare/v1.0.0...v1.0.1) (2020-08-22)
 
 
