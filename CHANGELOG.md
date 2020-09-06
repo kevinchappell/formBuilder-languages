@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/kevinchappell/formBuilder-languages/compare/v1.0.2...v1.1.0) (2020-09-06)
+
+
+### Features
+
+* Add th-TH (Thai) translation ([#71](https://github.com/kevinchappell/formBuilder-languages/issues/71)) ([04e9ef5](https://github.com/kevinchappell/formBuilder-languages/commit/04e9ef5))
+
 ## [1.0.2](https://github.com/kevinchappell/formBuilder-languages/compare/v1.0.1...v1.0.2) (2020-08-31)
 
 
