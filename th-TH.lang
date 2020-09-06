@@ -1,5 +1,5 @@
-NATIVE_NAME = English (US)
-ENGLISH_NAME = English
+NATIVE_NAME = ภาษาไทย
+ENGLISH_NAME = Thai
 
 addOption = เพิ่มตัวเลือก
 allFieldsRemoved = ต้องการลบไฟล์ทั้งหมด
