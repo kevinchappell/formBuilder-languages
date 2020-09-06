@@ -1,7 +1,7 @@
 const assert = require('assert')
 const langFiles = require('../index')
 
-const languageCount = 30
+const languageCount = 31
 
 describe('langFiles', function() {
   it(`should contain ${languageCount} languages`, function() {
@@ -34,6 +34,7 @@ describe('langFiles', function() {
       'ru-RU',
       'sl-SI',
       'tr-TR',
+      'th-TH',
       'uk-UA',
       'vi-VN',
       'zh-CN',
