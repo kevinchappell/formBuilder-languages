@@ -58,6 +58,7 @@ number = Liczba
 off = Wyłączony
 on = Włączony
 option = Opcja
+optionCount = Opis opcji {count}
 optional = opcjonalny
 optionEmpty = Wymagana wartość
 optionLabelPlaceholder = Etykieta
