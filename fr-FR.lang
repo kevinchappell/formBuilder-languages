@@ -27,7 +27,7 @@ editNames = Editer les noms
 editorTitle = Elements de formulaire
 editXML = Editer le XML
 enableOther = Droit Utilisateur
-enableOtherMsg = Permettre l'ajout d'options supplémentaires
+enableOtherMsg = Permettre l'ajout d'une option non listée
 fieldDeleteWarning: faux
 fieldVars = Variables de champ
 fieldNonEditable = Ce champ ne peut pas être édité.
@@ -60,6 +60,7 @@ optional = optionnel
 optionEmpty = Une valeur d'option est exigée
 optionLabelPlaceholder = Label
 optionValuePlaceholder = Valeur par défaut
+other = Autre
 paragraph = Paragraphe
 placeholder = Placeholder
 placeholder.value = Valeur par défaut
