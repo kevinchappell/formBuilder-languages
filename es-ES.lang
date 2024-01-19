@@ -25,7 +25,8 @@ devMode = Modo Desarrollador
 editNames = Editar Nombres
 editorTitle = Elementos del form
 editXML = Editar XML
-enableOther = Permitir otros
+enableOther = Permitir &quot;Otros&quot;
+enableOtherMsg = Permitir una opción no incluida en la lista
 fieldDeleteWarning: falso
 fieldVars = Variables del campo
 fieldNonEditable = Este campo no se puede editar.
@@ -53,6 +54,7 @@ option = Opción
 optional = opcional
 optionEmpty = La opción necesita un valor
 paragraph = Párrafo
+other = Otro
 placeholder = Placeholder
 placeholders.value = Valor
 placeholders.label = Etiqueta
