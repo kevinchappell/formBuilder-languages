@@ -34,7 +34,7 @@
     "mi18n": "^0.4.8"
   },
   "devDependencies": {
-    "@commitlint/cli": "^7.6.1",
+    "@commitlint/cli": "^18.4.4",
     "@commitlint/config-angular": "^7.6.0",
     "@semantic-release/changelog": "^3.0.2",
     "@semantic-release/git": "^7.0.8",
