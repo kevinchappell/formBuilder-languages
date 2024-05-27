@@ -1,4 +1,4 @@
-NATIVE_NAME = español
+NATIVE_NAME = Español
 ENGLISH_NAME = Spanish
 
 addOption = Añadir Opción
@@ -6,7 +6,7 @@ allFieldsRemoved = Todos los campos fueron eliminados.
 allowSelect = Permitir seleccionar
 autocomplete = Autocompletar
 button = Botón
-cannotBeEmpty = Este campo no puede estar vacio
+cannotBeEmpty = Este campo no puede estar vacío
 checkboxGroup = Grupo de casillas
 checkbox = Casilla
 checkboxes = Casillas
@@ -40,7 +40,7 @@ hidden = Campo oculto
 inline= Lineal
 inlineDesc = Mostrar lineal
 label = Etiqueta
-labelEmpty = Esta etiqueta no puede estar vacia
+labelEmpty = Esta etiqueta no puede estar vacía
 limitRole = Limitar el acceso a una o más de las siguientes funciones:
 mandatory = Obligatorio
 maxlength = Longitud máxima
