@@ -8,10 +8,11 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
+          cache: 'pnpm'
       - name: Install dependencies
         env:
           CI: true
-        run: npm ci
+        run: pnpm install
       - name: Test
-        run: npm test
+        run: pnpm test
