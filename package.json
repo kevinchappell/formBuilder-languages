@@ -1,6 +1,6 @@
 {
   "name": "formbuilder-languages",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Language files for formBuilder",
   "main": "index.js",
   "files": [

@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/kevinchappell/formBuilder-languages/compare/v1.1.1...v1.1.2) (2024-05-28)
+
+
+### Bug Fixes
+
+* update publish action and deps ([157e2b5](https://github.com/kevinchappell/formBuilder-languages/commit/157e2b59267341427b680e53f7cfaf1d63acda3a))
+
 ## [1.1.1](https://github.com/kevinchappell/formBuilder-languages/compare/v1.1.0...v1.1.1) (2024-05-28)
 
 
