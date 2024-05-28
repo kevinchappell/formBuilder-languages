@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/kevinchappell/formBuilder-languages/compare/v1.1.0...v1.1.1) (2024-05-28)
+
+
+### Bug Fixes
+
+* tests, remove old dependencies ([#103](https://github.com/kevinchappell/formBuilder-languages/issues/103)) ([9fef561](https://github.com/kevinchappell/formBuilder-languages/commit/9fef561b1ecb46a09cf25daf1887d296daa56657))
+
 # [1.1.0](https://github.com/kevinchappell/formBuilder-languages/compare/v1.0.2...v1.1.0) (2020-09-06)
 
 
