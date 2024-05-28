@@ -40,8 +40,8 @@
     "@commitlint/config-angular": "^19.1.0",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
-    "@semantic-release/npm": "^12.0.0",
-    "semantic-release": "^23.0.5"
+    "@semantic-release/npm": "^12.0.1",
+    "semantic-release": "^23.1.1"
   },
   "release": {
     "branch": "master",

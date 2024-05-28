@@ -5,6 +5,10 @@ on:
     branches:
       - master
 
+permissions:
+  packages: write
+  contents: write
+
 jobs:
   build:
     env:
@@ -27,7 +31,7 @@ jobs:
       - name: Publish
         if: success()
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
