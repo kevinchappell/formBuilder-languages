@@ -3,15 +3,20 @@ name: Pull Request
 
 jobs:
   test:
+    env:
+      CI: true
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        name: Install pnpm
+        with:
+          version: 9
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
+          cache: 'pnpm'
       - name: Install dependencies
-        env:
-          CI: true
-        run: npm ci
+        run: pnpm install
       - name: Test
-        run: npm test
+        run: pnpm test
