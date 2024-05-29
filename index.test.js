@@ -16,6 +16,10 @@ glob('*.lang', (err, matches) => {
   })
 
   test('should contain specific languages', () => {
+    /**
+     * Array of expected locales extracted from the matches array.
+     * @type {string[]}
+     */
     const expectedLocales = matches.map((lang) => lang.substring(0, lang.indexOf('.')))
 
     for (const lang of expectedLocales) {
