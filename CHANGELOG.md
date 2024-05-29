@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/kevinchappell/formBuilder-languages/compare/v1.1.2...v1.2.0) (2024-05-29)
+
+
+### Features
+
+* add punjabi language ([7f89d9b](https://github.com/kevinchappell/formBuilder-languages/commit/7f89d9ba8b09de2ffdc01db27f1c19259c039f8a))
+
 ## [1.1.2](https://github.com/kevinchappell/formBuilder-languages/compare/v1.1.1...v1.1.2) (2024-05-28)
 
 
