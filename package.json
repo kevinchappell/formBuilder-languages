@@ -11,7 +11,7 @@
   ],
   "scripts": {
     "lint": "biome lint index.js",
-    "format": "biome check --apply index.js",
+    "format": "biome check --write index.js",
     "semantic-release": "semantic-release",
     "test": "node --test --no-warnings",
     "prepare": "lefthook install",
@@ -34,17 +34,17 @@
   },
   "homepage": "https://github.com/kevinchappell/formBuilder-languages#readme",
   "dependencies": {
-    "mi18n": "^0.4.8"
+    "@draggable/i18n": "1.1.1"
   },
   "devDependencies": {
-    "@biomejs/biome": "1.7.3",
-    "@commitlint/cli": "^19.3.0",
-    "@commitlint/config-conventional": "^19.2.2",
-    "@semantic-release/changelog": "^6.0.3",
-    "@semantic-release/git": "^10.0.1",
-    "@semantic-release/npm": "^12.0.1",
-    "lefthook": "^1.6.13",
-    "semantic-release": "^23.1.1"
+    "@biomejs/biome": "2.4.14",
+    "@commitlint/cli": "21.0.0",
+    "@commitlint/config-conventional": "21.0.0",
+    "@semantic-release/changelog": "6.0.3",
+    "@semantic-release/git": "10.0.1",
+    "@semantic-release/npm": "13.1.5",
+    "lefthook": "2.1.6",
+    "semantic-release": "25.0.3"
   },
   "release": {
     "branch": "master",
