@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/kevinchappell/formBuilder-languages#readme",
   "dependencies": {
-    "@draggable/i18n": "1.1.1"
+    "@draggable/i18n": "1.2.0"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.14",
