@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/kevinchappell/formBuilder-languages/compare/v1.2.1...v1.2.2) (2026-10-29)
+
+
+### Bug Fixes
+
+* **deps:** update @draggable/i18n to 1.2.0 ([#120](https://github.com/kevinchappell/formBuilder-languages/issues/120)) ([9f6377b](https://github.com/kevinchappell/formBuilder-languages/commit/9f6377b86d79223b9419be0f74fd21a0b42f1e44))
+
 ## [1.2.1](https://github.com/kevinchappell/formBuilder-languages/compare/v1.2.0...v1.2.1) (2026-05-08)
 
 
